@@ -52,8 +52,4 @@ Hey, what's up?! I'm Saulo, from Brazil. Web Developer, Game Developer and 3D Ar
     <img align="center" alt="" height="28" width="126" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
     <img align="center" alt="" height="28" width="70" src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white">
     <img align="center" alt="" height="28" width="100" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-    <img align="center" alt="" height="28" width="140" src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-    
-    
-    
   </div>
