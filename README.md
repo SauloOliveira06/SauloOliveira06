@@ -1,5 +1,9 @@
-### Hello, there (Obiwan Kenobi) 
-#### Hi, I'm Saulo, web developer, game developer and 3D artist from Brazil
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Obiwan+Here,+ops+Saulo....;Nice+to+meet+you!&center=true&size=20">
+  </a>
+</h1>
+
 
 <p>
   🔬 I'm gratuaded in Science computer and MBA Software Engineering
