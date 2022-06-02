@@ -18,12 +18,12 @@
 </p>
 <br>
 <div align="center">
-  <a href="https://github.com/SauloOliveira06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SauloOliveira06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloOliveira06&layout=compact&langs_count=7&theme=dracula"/>
-    </a>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloOliveira06&show_icons=true&theme=radical)
+  
 </div>
-    <br>
+
+    
 <div align="center">
     <br>
     <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/38094b95235473.5e92ecc4409a8.gif" />
@@ -72,6 +72,7 @@
     <img align="center" alt="" height="28" width="100" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     <img align="center" alt="" height="28" width="160" src="https://aleen42.github.io/badges/src/stackoverflow.svg" />
     <img align="center" alt="" height="28" width="120" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  <img align="center" alt="" height="28" width="100" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=purple">
   </div>
   <br>
   <div align="center">
