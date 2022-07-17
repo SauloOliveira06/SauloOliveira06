@@ -10,7 +10,7 @@
   <br>
   💻 I love writing code and learn anythings about it, i love 3D Artist and Games
   <br>
-  📚 I’m always studying React with TDD, Clean Code, Clean Architecture and Recoil
+  📚 I’m always studying React!!!
   <br>
   💬 Ask me anything about from LinkedIn <a href="https://www.linkedin.com/in/saulo-oliveira-422542b2" target="_blank" title="Issues">Here</a>
   <br>
