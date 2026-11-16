@@ -20,7 +20,7 @@ I'm **Saulo**, a Software Engineer with **7+ years of experience** building scal
 🎓 Degree in **Information Systems**  
 🎓 MBA in **Software Engineering**
 
-🌎 English: **B2**
+🌎 English: **B2/C1**
 
 Website: https://developer-one-website.vercel.app
 
